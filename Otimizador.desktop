@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Otimizador 300%
+Comment=Organizador Profissional de Arquivos
+Exec=/home/samsung/venv/bin/python /home/samsung/Projetos_Freelance/app_organizador.py
+Icon=System-file-manager
+Terminal=false
+Type=Application
+Categories=Utility;
